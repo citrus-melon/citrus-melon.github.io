@@ -2,7 +2,6 @@
 A list of projects that I have made
 
 ---
-<br>
 
 ## [Swim Team Event Number Display](https://citrus-melon.github.io/swim-event-display)
 <https://citrus-melon.github.io/swim-event-display>
