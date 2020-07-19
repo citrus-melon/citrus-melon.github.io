@@ -15,7 +15,7 @@ A web app for use in childern's swim meet competions. At these competitions, swi
 ---
 <br>
 
-## [The Recording Repeater](https://citrus-melon.github.io/Record-repeat)
+## [The Recording Repeater](https://citrus-melon.github.io/record-repeat)
 <https://citrus-melon.github.io/record-repeat>
 
 ![Random](https://img.shields.io/badge/-Random-yellow)
