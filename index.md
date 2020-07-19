@@ -22,4 +22,4 @@ A web app for use in childern's swim meet competions. At these competitions, swi
 
 Record segments of audio from the microphone and then play them back in a loop! Also supports uploading your own files and playing multiple clips at once. Perfect for annoying your friends!
 
-[![Screenshot](/images/recordingRepeater.png)](https://citrus-melon.github.io/Record-repeat)
+[![Screenshot](/images/recordingRepeater.png)](https://citrus-melon.github.io/record-repeat)
