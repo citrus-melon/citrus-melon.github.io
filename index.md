@@ -17,7 +17,7 @@ A Unity WebGL game I created for my school's enviormental team, for students to 
 
 ![In progress](https://img.shields.io/badge/-In%20Progress-blueviolet)
 
-A web app for use in childern's swim meet competions. At these competitions, swimmers are called to the bullepen for their events. This app has two parts, a "controller" and a "receiver." The receiver is meant for use on a large screen, which displays the current event number to swimmers. The controller is meant for controling the receiver from a mobile phone.
+A web app for use at swim meets, to allow swimmers to more easily know the current event and be notified when their event is being callend. This app has two parts, a "controller" and a "receiver." The receiver is meant for use on a large screen, which displays the current event number to swimmers. The controller is meant for controling the receiver from a mobile phone. It supports voice broadcasts, tts event change announcements, custom messages, and a event-change chime.
 
 [![Screenshot](/images/swimDisplay.png)](https://citrus-melon.github.io/swim-event-display)
 
