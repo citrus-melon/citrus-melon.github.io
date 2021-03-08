@@ -4,7 +4,7 @@ A list of projects that I have made
 ---
 
 ## [Cafeteria waste sorting game](https://citrus-melon.github.io/Green)
-<hhttps://citrus-melon.github.io/Green>
+[Repository: github.com/citrus-melon/Green](https://www.github.com/citrus-melon/Green)
 
 A Unity WebGL game I created for my school's enviormental team, for students to practice waste sorting in the cafeteria. Cafeteria waste items enter from the left of the screen, and you must correctly assign them to the compost, recycle, landfill, liquid, and unopened-food donation categories.
 
@@ -13,7 +13,7 @@ A Unity WebGL game I created for my school's enviormental team, for students to 
 ---
 
 ## [Swim Team Event Number Display](https://citrus-melon.github.io/swim-event-display)
-<https://citrus-melon.github.io/swim-event-display>
+[Repository: github.com/citrus-melon/swim-event-display](https://www.github.com/citrus-melon/swim-event-display)
 
 ![In progress](https://img.shields.io/badge/-In%20Progress-blueviolet)
 
@@ -25,7 +25,7 @@ A web app for use at swim meets, to allow swimmers to more easily know the curre
 <br>
 
 ## [The Recording Repeater](https://citrus-melon.github.io/record-repeat)
-<https://citrus-melon.github.io/record-repeat>
+[Repository: github.com/citrus-melon/record-repeat](https://www.github.com/citrus-melon/record-repeat)
 
 ![Random](https://img.shields.io/badge/-Random-yellow)
 
