@@ -3,6 +3,15 @@ A list of projects that I have made
 
 ---
 
+## [Cafeteria waste sorting game](https://citrus-melon.github.io/Green)
+<hhttps://citrus-melon.github.io/Green>
+
+A Unity WebGL game I created for my school's enviormental team, for students to practice waste sorting in the cafeteria. Cafeteria waste items enter from the left of the screen, and you must correctly assign them to the compost, recycle, landfill, liquid, and unopened-food donation categories.
+
+[![Screenshot](/images/greenGame.png)](https://citrus-melon.github.io/Green)
+
+---
+
 ## [Swim Team Event Number Display](https://citrus-melon.github.io/swim-event-display)
 <https://citrus-melon.github.io/swim-event-display>
 
