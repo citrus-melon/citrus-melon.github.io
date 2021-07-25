@@ -3,6 +3,15 @@ A list of projects that I have made
 
 ---
 
+## [Timebar](https://citrus-melon.github.io/timebar)
+[Repository: github.com/citrus-melon/timebar](https://github.com/citrus-melon/timebar)
+
+Timebar is a simple web app that shows the progress between two dates. Easily visualize a duration of time, such as how much of the year has past, or how long you have before a  deadline.
+
+[![Screenshot](/images/timebar.png)](https://citrus-melon.github.io/timebar)
+
+---
+
 ## [Slime Combine](https://citrusmelon.itch.io/slime-combine)
 [Repository: github.com/citrus-melon/BGJ-5-2020-1](https://github.com/citrus-melon/BGJ-5-2020-1)
 
