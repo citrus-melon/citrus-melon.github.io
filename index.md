@@ -26,6 +26,15 @@ Timebar is a simple web app that shows the progress between two dates. Easily vi
 
 ---
 
+## Hypixel Status Bot
+[Repository: github.com/citrus-melon/Hypixel-Status-Bot](https://github.com/citrus-melon/Hypixel-Status-Bot)
+
+A Discord bot that tracks players' online status on the Hypixel Minecraft server to provide notifications and playtime statistics.
+
+![Screenshot](/images/hypixel-status.png)
+
+---
+
 ## [Face Drawing Classification](https://facedrawing.citrusmelon.repl.co)
 [Colab Notebook](https://colab.research.google.com/drive/1q4F7xwknjquvtBRhDNqG1lvsb5kZx3pK?usp=sharing)
 
