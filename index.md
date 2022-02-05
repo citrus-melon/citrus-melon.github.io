@@ -47,6 +47,6 @@ A web app for use at swim meets, to allow swimmers to more easily know the curre
 
 ![Random](https://img.shields.io/badge/-Random-yellow)
 
-Record segments of audio from the microphone and then play them back in a loop! Also supports uploading your own files and playing multiple clips at once. Perfect for annoying your friends!
+Record segments of audio from the microphone and then play them back in a loop! Also supports uploading your own files and playing multiple clips at once.
 
 [![Screenshot](/images/recordingRepeater.png)](https://citrus-melon.github.io/record-repeat)
