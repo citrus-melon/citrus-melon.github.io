@@ -1,5 +1,5 @@
 # My Projects
-A list of projects that I have made
+A list of my current and past projects
 
 ---
 
