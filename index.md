@@ -21,6 +21,15 @@ Timebar is a simple web app that shows the progress between two dates. Easily vi
 
 ---
 
+## [Face Drawing Classification](https://facedrawing.citrusmelon.repl.co)
+[Colab Notebook](https://colab.research.google.com/drive/1q4F7xwknjquvtBRhDNqG1lvsb5kZx3pK?usp=sharing)
+
+My 8th grade science research project, to learn about deep learning and neural networks. I trained a convolutional neural network using Tensorflow Keras to classify hand-drawn smiley and frowny faces!
+
+[![Screenshot](/images/smiley-face.png)](https://facedrawing.citrusmelon.repl.co)
+
+---
+
 ## [Slime Combine](https://citrusmelon.itch.io/slime-combine)
 [Repository: github.com/citrus-melon/BGJ-5-2020-1](https://github.com/citrus-melon/BGJ-5-2020-1)
 
