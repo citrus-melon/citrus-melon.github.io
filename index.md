@@ -3,6 +3,15 @@ A list of projects that I have made
 
 ---
 
+## Shopping List
+[Repository: https://github.com/citrus-melon/Shopping-List](https://github.com/citrus-melon/Shopping-List)
+
+A comma-separated shopping list web app built with Vue 3!
+
+![Screenshot](/images/shopping-list.png)
+
+---
+
 ## [Timebar](https://citrus-melon.github.io/timebar)
 [Repository: github.com/citrus-melon/timebar](https://github.com/citrus-melon/timebar)
 
