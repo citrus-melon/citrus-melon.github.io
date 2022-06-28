@@ -1,6 +1,14 @@
 # My Projects
 A list of my current and past projects
 
+## Remote Learning Robot
+
+Repositories: [Web interface](https://github.com/citrus-melon/remote-learning-robot-web), [Arduino sketch](https://github.com/citrus-melon/remote_learning_robot_arduino)
+
+![In progress](https://img.shields.io/badge/-In%20Progress-blueviolet)
+
+A tripod that allows a student to remotely rotate a webcam for a 360° view of the classroom and raise a mechanical hand. Designed to bring students closer the classroom while in isolation due to COVID.
+
 ---
 
 ## Shopping List
