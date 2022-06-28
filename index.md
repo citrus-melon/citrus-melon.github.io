@@ -22,6 +22,17 @@ A comma-separated shopping list web app built with Vue 3!
 
 ---
 
+## USACO Status Bot
+[Repository: https://github.com/citrus-melon/usaco-status-bot](https://github.com/citrus-melon/usaco-status-bot)
+
+![Simple](https://img.shields.io/badge/-Simple-blue)
+
+A Discord bot that provides contest status updates by periodically scraping the USACO home page.
+
+![Screenshot](/images/usaco-status-bot.png)
+
+---
+
 ## [Timebar](https://citrus-melon.github.io/timebar)
 [Repository: github.com/citrus-melon/timebar](https://github.com/citrus-melon/timebar)
 
