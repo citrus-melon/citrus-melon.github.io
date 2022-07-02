@@ -64,9 +64,9 @@ My 8th grade science research project, to learn about deep learning and neural n
 ---
 
 ## [Slime Combine](https://citrusmelon.itch.io/slime-combine)
-[Repository: github.com/citrus-melon/BGJ-5-2020-1](https://github.com/citrus-melon/BGJ-5-2020-1)
+[Repository: github.com/citrus-melon/BGJ-5-2021-1](https://github.com/citrus-melon/BGJ-5-2021-1)
 
-A submission to the [2020.1 Brackey's Game Jam](https://itch.io/jam/brackeys-5)! This is a Unity WebGL game that was created in one week, based on the theme of "stronger togehter". Submitted in collaboration with [@vivmehta](https://github.com/vivmehta)! Combine slime to complete levels by placing corresponding slimes above all goals.
+A submission to the [2021.1 Brackey's Game Jam](https://itch.io/jam/brackeys-5)! This is a Unity WebGL game that was created in one week, based on the theme of "stronger togehter". Submitted in collaboration with [@vivmehta](https://github.com/vivmehta)! Combine slime to complete levels by placing corresponding slimes above all goals.
 
 [![Screenshot](/images/slimeCombine.png)](https://citrusmelon.itch.io/slime-combine)
 
