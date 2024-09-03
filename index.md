@@ -1,6 +1,17 @@
 # My Projects
 A list of my current and past projects
 
+## BUA Schedule → Google Calendar Importer
+[Live Site: https://citrusmelon.dev/bua-schedule-calendar-importer/](https://citrusmelon.dev/bua-schedule-calendar-importer/)
+
+[Source Code Repository](https://github.com/citrus-melon/bua-schedule-calendar-importer)
+
+A tool for quickly and easily importing classes from a Boston University Academy PDF schedule into Google Calendar.
+
+[![Cover Image](https://citrusmelon.dev/bua-schedule-calendar-importer/cover.png)](https://citrusmelon.dev/bua-schedule-calendar-importer/)
+
+# Older projects
+
 ## Remote Learning Robot
 
 Repositories: [Web interface](https://github.com/citrus-melon/remote-learning-robot-web), [Arduino sketch](https://github.com/citrus-melon/remote_learning_robot_arduino)
